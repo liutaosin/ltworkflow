@@ -18,11 +18,13 @@ It's open-source and distributed under the Apache license Version 2.0.
 5、支持自定义PHP脚本，在审批前或审批后调用
 
 二、基本原理
+
 1、原型参考java开源工作流引擎osworkflow
 2、通过xml配置流程节点
 3、使用PHP解析XML并在数据库中记录操作状态
 
 三、环境需求
+
 PHP5.2或以上
 mysql5 / sqlserver2008
 
